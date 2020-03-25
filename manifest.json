@@ -1,0 +1,15 @@
+{
+  "name": "My Amazing Shopware PWA",
+  "short_name": "Shopware PWA",
+  "description": "A very simple Shopware PWA",
+  "theme_color": "#189EFF",
+  "background_color": "#189EFF",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "start_url": "/inidex.html",
+  "icons": [{
+   "src": "favicon32x32.png",
+    "sizes": "32x32",
+   "type": "image/png"
+  }]
+}
